@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\IdeaProjects\\Test_Lab2_OS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2B74F0-F0E6-4ED0-AC15-330D57224636}|my_test1\\my_test1.vcxproj|C:\\Users\\user\\IdeaProjects\\Test_Lab2_OS\\my_test1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F2B74F0-F0E6-4ED0-AC15-330D57224636}|my_test1\\my_test1.vcxproj|solutionrelative:my_test1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2B74F0-F0E6-4ED0-AC15-330D57224636}|my_test1\\my_test1.vcxproj|C:\\Users\\user\\IdeaProjects\\Test_Lab2_OS\\my_test1\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F2B74F0-F0E6-4ED0-AC15-330D57224636}|my_test1\\my_test1.vcxproj|solutionrelative:my_test1\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2B74F0-F0E6-4ED0-AC15-330D57224636}|my_test1\\my_test1.vcxproj|C:\\Users\\user\\IdeaProjects\\Test_Lab2_OS\\my_test1\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F2B74F0-F0E6-4ED0-AC15-330D57224636}|my_test1\\my_test1.vcxproj|solutionrelative:my_test1\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2B74F0-F0E6-4ED0-AC15-330D57224636}|my_test1\\my_test1.vcxproj|C:\\Users\\user\\IdeaProjects\\Test_Lab2_OS\\my_test1\\my_test1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F2B74F0-F0E6-4ED0-AC15-330D57224636}|my_test1\\my_test1.vcxproj|solutionrelative:my_test1\\my_test1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC55556-7930-4AB6-9AF2-C37C48F9AE93}|Test_Lab2_OS\\Test_Lab2_OS.vcxproj|C:\\Users\\user\\IdeaProjects\\Test_Lab2_OS\\Test_Lab2_OS\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EC55556-7930-4AB6-9AF2-C37C48F9AE93}|Test_Lab2_OS\\Test_Lab2_OS.vcxproj|solutionrelative:Test_Lab2_OS\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\IdeaProjects\\Test_Lab2_OS\\my_test1\\pch.cpp",
+              "RelativeDocumentMoniker": "my_test1\\pch.cpp",
+              "ToolTip": "C:\\Users\\user\\IdeaProjects\\Test_Lab2_OS\\my_test1\\pch.cpp",
+              "RelativeToolTip": "my_test1\\pch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T07:46:58.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Header.h",
+              "DocumentMoniker": "C:\\Users\\user\\IdeaProjects\\Test_Lab2_OS\\my_test1\\Header.h",
+              "RelativeDocumentMoniker": "my_test1\\Header.h",
+              "ToolTip": "C:\\Users\\user\\IdeaProjects\\Test_Lab2_OS\\my_test1\\Header.h",
+              "RelativeToolTip": "my_test1\\Header.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-25T07:30:20.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\IdeaProjects\\Test_Lab2_OS\\my_test1\\Source.cpp",
+              "RelativeDocumentMoniker": "my_test1\\Source.cpp",
+              "ToolTip": "C:\\Users\\user\\IdeaProjects\\Test_Lab2_OS\\my_test1\\Source.cpp*",
+              "RelativeToolTip": "my_test1\\Source.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T07:30:03.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "my_test1.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\IdeaProjects\\Test_Lab2_OS\\my_test1\\my_test1.cpp",
+              "RelativeDocumentMoniker": "my_test1\\my_test1.cpp",
+              "ToolTip": "C:\\Users\\user\\IdeaProjects\\Test_Lab2_OS\\my_test1\\my_test1.cpp",
+              "RelativeToolTip": "my_test1\\my_test1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T17:24:25.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\IdeaProjects\\Test_Lab2_OS\\Test_Lab2_OS\\main.cpp",
+              "RelativeDocumentMoniker": "Test_Lab2_OS\\main.cpp",
+              "ToolTip": "C:\\Users\\user\\IdeaProjects\\Test_Lab2_OS\\Test_Lab2_OS\\main.cpp",
+              "RelativeToolTip": "Test_Lab2_OS\\main.cpp",
+              "ViewState": "AQIAAEAAAAAAAAAAAABBwEIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T17:22:33.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

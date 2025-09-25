@@ -1,13 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\IdeaProjects\\Main\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\OS\\Lab_1-OS\\Main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2C2BA3F-8988-4807-8596-BB7279600902}|Main\\Main.vcxproj|C:\\Users\\user\\IdeaProjects\\Main\\Main\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{23030AAF-6542-4712-B7CB-AC1C6CC38642}|..\\..\\..\\IdeaProjects\\Lab_1-OS\\Reporter\\Reporter\\Reporter.vcxproj|C:\\Users\\user\\IdeaProjects\\Lab_1-OS\\Reporter\\Reporter\\Reporter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C2BA3F-8988-4807-8596-BB7279600902}|Main\\Main.vcxproj|C:\\Users\\user\\OS\\Lab_1-OS\\Main\\Main\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2C2BA3F-8988-4807-8596-BB7279600902}|Main\\Main.vcxproj|solutionrelative:Main\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C2BA3F-8988-4807-8596-BB7279600902}|Main\\Main.vcxproj|C:\\Users\\user\\IdeaProjects\\Main\\Main\\employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6F5121AA-0E18-4E7A-9D91-96BE0572437F}|..\\..\\..\\IdeaProjects\\Lab_1-OS\\Creator\\Creator\\Creator.vcxproj|C:\\Users\\user\\IdeaProjects\\Lab_1-OS\\Creator\\Creator\\Creator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C2BA3F-8988-4807-8596-BB7279600902}|Main\\Main.vcxproj|C:\\Users\\user\\OS\\Lab_1-OS\\Main\\Main\\employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2C2BA3F-8988-4807-8596-BB7279600902}|Main\\Main.vcxproj|solutionrelative:Main\\employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -18,7 +24,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +36,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "employee.h",
-              "DocumentMoniker": "C:\\Users\\user\\IdeaProjects\\Main\\Main\\employee.h",
-              "RelativeDocumentMoniker": "Main\\employee.h",
-              "ToolTip": "C:\\Users\\user\\IdeaProjects\\Main\\Main\\employee.h",
-              "RelativeToolTip": "Main\\employee.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-11T07:12:19.599Z",
+              "DocumentIndex": 0,
+              "Title": "Reporter.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\IdeaProjects\\Lab_1-OS\\Reporter\\Reporter\\Reporter.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\IdeaProjects\\Lab_1-OS\\Reporter\\Reporter\\Reporter.cpp",
+              "ToolTip": "C:\\Users\\user\\IdeaProjects\\Lab_1-OS\\Reporter\\Reporter\\Reporter.cpp",
+              "RelativeToolTip": "..\\..\\..\\IdeaProjects\\Lab_1-OS\\Reporter\\Reporter\\Reporter.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-18T07:30:15.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Creator.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\IdeaProjects\\Lab_1-OS\\Creator\\Creator\\Creator.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\IdeaProjects\\Lab_1-OS\\Creator\\Creator\\Creator.cpp",
+              "ToolTip": "C:\\Users\\user\\IdeaProjects\\Lab_1-OS\\Creator\\Creator\\Creator.cpp",
+              "RelativeToolTip": "..\\..\\..\\IdeaProjects\\Lab_1-OS\\Creator\\Creator\\Creator.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-18T07:27:25.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "employee.h",
+              "DocumentMoniker": "C:\\Users\\user\\OS\\Lab_1-OS\\Main\\Main\\employee.h",
+              "RelativeDocumentMoniker": "Main\\employee.h",
+              "ToolTip": "C:\\Users\\user\\OS\\Lab_1-OS\\Main\\Main\\employee.h",
+              "RelativeToolTip": "Main\\employee.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-11T07:12:19.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\IdeaProjects\\Main\\Main\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OS\\Lab_1-OS\\Main\\Main\\Main.cpp",
               "RelativeDocumentMoniker": "Main\\Main.cpp",
-              "ToolTip": "C:\\Users\\user\\IdeaProjects\\Main\\Main\\Main.cpp",
+              "ToolTip": "C:\\Users\\user\\OS\\Lab_1-OS\\Main\\Main\\Main.cpp",
               "RelativeToolTip": "Main\\Main.cpp",
-              "ViewState": "AQIAADgAAAAAAAAAAAAAAEkAAAAnAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAA0AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-11T07:05:21.756Z",
               "EditorCaption": ""
